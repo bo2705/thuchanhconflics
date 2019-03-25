@@ -1,1 +1,4 @@
 # thuchanhconflics
+Ð?n c? con kh? c?ng hi?u ðý?c l?nh Git
+add: Ðãng k? thay ð?i trong index
+commit: Lýu l?i tr?ng thái c?a index
